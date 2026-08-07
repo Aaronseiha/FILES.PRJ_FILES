@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "Test Pack",
+      "luts": [
+        {
+          "name": "Test B&W",
+          "file": "test_bw.cube",
+          "sha256": "d5ee33d128ca2389413760a3efee13eaed9fec88b4b902eb7f5092d6f185e5a1"
+        },
+        {
+          "name": "Test Warm",
+          "file": "test_warm.cube",
+          "sha256": "2911fed4085bfb9b6808062f82f6f634596cbca7685629751080a69017f706a4"
+        }
+      ]
+    }
+  ]
+}

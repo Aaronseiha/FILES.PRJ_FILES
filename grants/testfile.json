@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "Test Warm",
+      "file": "test_warm.cube",
+      "sha256": "2911fed4085bfb9b6808062f82f6f634596cbca7685629751080a69017f706a4"
+    }
+  ]
+}
