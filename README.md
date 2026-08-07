@@ -9,15 +9,15 @@ Do not put anything here you would not hand to a stranger.
 ## Layout
 
 ```
-grants/<code>.json    one file per code — the filename IS the code
-luts/<file>.cube      the LUT files, shared across any number of codes
+CODES/<code>.json     one file per code — the filename IS the code
+FILES/<file>.cube     the LUT files, shared across any number of codes
 ```
 
 ## Codes
 
 The code a user types is normalized to lowercase letters and numbers only,
 then used as the filename. So `SUMMER25`, `summer25` and `Summer 25` all
-resolve to `grants/summer25.json`.
+resolve to `CODES/summer25.json`.
 
 There is deliberately no index listing every code. A code that has no file
 returns 404, which the app shows as "Invalid code". This keeps someone from
@@ -56,15 +56,12 @@ rejects the whole grant on a mismatch.
 
 ## Editing
 
-- New code: add a file to `grants/`.
+- New code: add a file to `CODES/`.
 - Revoke a code: delete its file. Collections already granted stay on the
   user's device — there is no remote revocation.
 - Change a code's contents: edit its file. Only affects future redemptions.
 
-## Test codes
+## Directory names are load-bearing
 
-- `TESTPACK` — collection grant, two LUTs, lands directly
-- `TESTFILE` — files grant, one LUT, prompts for a destination
-
-Both use generated test LUTs (obvious black-and-white and warm shifts) so a
-test either clearly worked or clearly did not.
+`CODES/` and `FILES/` are compiled into the app (CodeGrantService.swift).
+Renaming either one breaks every published code until a new build ships.
