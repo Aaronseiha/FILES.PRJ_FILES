@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "Pack",
+      "luts": [
+        {
+          "name": "cold",
+          "file": "cold-83fd6aaf.cube",
+          "sha256": "83fd6aafcc048b3419125eb21abb500d500dd2fed02b069447495d7bf5a9023e"
+        }
+      ]
+    }
+  ]
+}
