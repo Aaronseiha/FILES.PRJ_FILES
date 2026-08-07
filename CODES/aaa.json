@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "Pack A",
+      "luts": [
+        {
+          "name": "only_a",
+          "file": "only_a-40ccbfc0.cube",
+          "sha256": "40ccbfc07316d4ecfc5db1ef71546ddc4af6ae581cae34507dd6dd59f1322b6b"
+        },
+        {
+          "name": "shared",
+          "file": "shared-83fd6aaf.cube",
+          "sha256": "83fd6aafcc048b3419125eb21abb500d500dd2fed02b069447495d7bf5a9023e"
+        }
+      ]
+    }
+  ]
+}
