@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "House of Files",
+      "luts": [
+        {
+          "name": "DISPLAY P3",
+          "file": "DISPLAY_P3-1e9781a9.cube",
+          "sha256": "1e9781a9f6bba452b8364f38a78eb161fdafb316bc3d0eee31290ecb3a4226e7"
+        }
+      ]
+    }
+  ]
+}
