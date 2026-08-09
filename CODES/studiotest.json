@@ -4,11 +4,7 @@
     {
       "name": "STUDIOTEST",
       "file": "STUDIOTEST-5d0ec884.cube",
-      "sha256": "5d0ec88448b17662adbf68a87928ba28f35cbf3de0e55c84f89d232e0f6f1bf8",
-      "overlay": "STUDIOTEST_overlay-0f8bcb4d.jpg",
-      "overlaySha256": "0f8bcb4d8431427d4351dc8c84cbe43e5be62120bc36a3603aa33276a295528a",
-      "overlayBlendMode": 18,
-      "overlayOpacity": 1.0
+      "sha256": "5d0ec88448b17662adbf68a87928ba28f35cbf3de0e55c84f89d232e0f6f1bf8"
     }
   ]
 }
