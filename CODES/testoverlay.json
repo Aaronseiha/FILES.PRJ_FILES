@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "Studio",
+      "file": "Studio-c29520b0.cube",
+      "sha256": "c29520b089bd4bdb251f0608b60682ef816c86b9d53fe02bff3b728d893c6a90",
+      "overlay": "Studio_overlay-0f8bcb4d.jpg",
+      "overlaySha256": "0f8bcb4d8431427d4351dc8c84cbe43e5be62120bc36a3603aa33276a295528a",
+      "overlayBlendMode": 18,
+      "overlayOpacity": 1.0
+    }
+  ]
+}
