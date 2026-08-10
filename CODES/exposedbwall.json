@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "EXPOSED_BW",
+      "file": "EXPOSED_BW-132e5050.cube",
+      "sha256": "132e505094e97e0b5efbb239c1465f9ff6ad45a3a1c6b89ca34894ad9b4a5e95",
+      "grainAmount": 100.0,
+      "grainSize": 0.0,
+      "grainBias": 50.0,
+      "clarityAmount": 100.0,
+      "motionStepSize": 0.006,
+      "motionEdges": 0.0,
+      "motionCenter": 0.0,
+      "motionFocalInner": 0.0,
+      "motionFocalOuter": 0.0
+    }
+  ]
+}
