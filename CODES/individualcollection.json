@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "Collection",
+      "luts": [
+        {
+          "name": "Studio",
+          "file": "Studio-f34802ed.cube",
+          "sha256": "f34802ed59a514ccc3a6d00a28473a5e2eb7d8088dff37928e6eae3d53865b2b"
+        }
+      ]
+    }
+  ]
+}
