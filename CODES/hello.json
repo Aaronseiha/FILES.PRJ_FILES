@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "card": {
+    "file": "card-001-aeb7aa2a.json",
+    "sha256": "aeb7aa2aaf0185bb1dfde375c53228360d8315681db65930c204e06b241ad4c7",
+    "name": "card-001",
+    "thumb": "card-001-f5f17a05.png",
+    "thumbSha256": "f5f17a05124ba3ae5b77bed4c235b9d7054dbdb5359dfb70170d8a01589f2b38"
+  }
+}
