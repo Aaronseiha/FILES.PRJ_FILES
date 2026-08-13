@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "Atelier",
+      "luts": [
+        {
+          "name": "01",
+          "file": "01-9df79fd1.cube",
+          "sha256": "9df79fd1727bc2fb9f5aafbff6fbbd0e41f2797190d8aa377bfd6baa9c128d87"
+        },
+        {
+          "name": "02",
+          "file": "02-ce8139b5.cube",
+          "sha256": "ce8139b54b7a8ca02b42ad97691fc3064ab012f14f8e831be3b2f439e6a90dc0",
+          "grainAmount": 10.0,
+          "grainSize": 0.0,
+          "grainBias": 0.0,
+          "clarityAmount": -80.0
+        },
+        {
+          "name": "03",
+          "file": "03-1f693ebf.cube",
+          "sha256": "1f693ebffe3fa5e6856f0301c2821251874673e9e4492cca06a9cd8eb52f569b",
+          "grainAmount": 40.0,
+          "grainSize": 0.0,
+          "grainBias": 40.0,
+          "clarityAmount": -80.0
+        },
+        {
+          "name": "04",
+          "file": "04-7f880f81.cube",
+          "sha256": "7f880f81f8dd3d6511b09798e146cbbcccb270af219a2a80fa9fc41437863b7b"
+        }
+      ]
+    }
+  ]
+}
