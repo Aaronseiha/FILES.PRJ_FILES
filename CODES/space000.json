@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "01",
+      "file": "01-b5714e82.cube",
+      "sha256": "b5714e8250a3f6679f9af44aa1ae5d38d1fffa7b012f853a680c1001010fddbd",
+      "card": {
+        "file": "01_card-4643b468.json",
+        "sha256": "4643b46863e45a516a1dd69ab62508ced6987b25f13c384746fbd1668e761bf4",
+        "thumb": "01_card-a7a374fb.png",
+        "thumbSha256": "a7a374fbfdde33397f2e2eba738f5e6681bf8b8d9f7bfc31e7653794e407e4b4"
+      }
+    },
+    {
+      "name": "02",
+      "file": "02-9df79fd1.cube",
+      "sha256": "9df79fd1727bc2fb9f5aafbff6fbbd0e41f2797190d8aa377bfd6baa9c128d87",
+      "card": {
+        "file": "02_card-9a417566.json",
+        "sha256": "9a417566019fd2b6fb6f5eece10bf84726072c4ead82cf088190760cf2e7ff2c",
+        "thumb": "02_card-8126f1d1.png",
+        "thumbSha256": "8126f1d12251d4b2ed8ff105b0c4b8e565e5c5c82c0d1cb854cc7186a9263c20"
+      }
+    }
+  ]
+}
