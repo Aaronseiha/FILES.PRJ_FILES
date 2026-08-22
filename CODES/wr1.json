@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "WR1",
+      "luts": [
+        {
+          "name": "01",
+          "file": "01-b5714e82.cube",
+          "sha256": "b5714e8250a3f6679f9af44aa1ae5d38d1fffa7b012f853a680c1001010fddbd",
+          "grainAmount": 35.0,
+          "grainSize": 0.0,
+          "grainBias": 50.0,
+          "motionStepSize": 0.0,
+          "motionEdges": 0.116,
+          "motionCenter": 0.0,
+          "motionFocalInner": 0.0,
+          "motionFocalOuter": 0.0,
+          "card": {
+            "file": "01_card-e42c3b8e.json",
+            "sha256": "e42c3b8e106388b871d692d31d59b65f74c5b6273f2655696a0c2f8ca075d4db",
+            "thumb": "01_card-4c7517fd.png",
+            "thumbSha256": "4c7517fdd99ff6e62e6222a6b063e94a41a1dedef2f8a1bcb00affbb956ef504"
+          }
+        },
+        {
+          "name": "02",
+          "file": "02-9df79fd1.cube",
+          "sha256": "9df79fd1727bc2fb9f5aafbff6fbbd0e41f2797190d8aa377bfd6baa9c128d87",
+          "grainAmount": 35.0,
+          "grainSize": 0.0,
+          "grainBias": 50.0,
+          "clarityAmount": -60.0,
+          "card": {
+            "file": "02_card-49bc4eb2.json",
+            "sha256": "49bc4eb23dba4a40c097c690c1e33b619a3d569ef2cfd6f097fae7ac94b5dc76",
+            "thumb": "02_card-b49ea53e.png",
+            "thumbSha256": "b49ea53e98c1fc50ce06f37f4fbf1d5d1b3991d57017dcf4fe734f15255570a7"
+          }
+        }
+      ]
+    }
+  ]
+}
